@@ -1,6 +1,5 @@
-# PYTHON INTRODUCTION
+# Literals (Values)
 
-## Literals / Values
 Literals are values that don't need to be interpreted.
 
 ### Integer literals
@@ -21,11 +20,13 @@ Numbers with fractional part or decimal point.
 "welcome'       # Wrong: throws an error
 "487"           # string with 3 characters
 "Hello@123-777" # sttring contains letter, numbers, and special characters
+""              # empty string
+''              # empty string
 ```
 
 ### Boolean literals
 - Boolean values are two: True and False
-- They are used in decision making and contrlo flow of the program.
+- They are used in decision making and control flow of the program.
 ```
 True
 False
