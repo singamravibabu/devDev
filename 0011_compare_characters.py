@@ -1,0 +1,6 @@
+print("A" > "a")
+print("a" > "A")
+print(chr(3077))
+print(chr(3078))
+print(chr(3079))
+print(chr(3080))
