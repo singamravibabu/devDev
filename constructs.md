@@ -33,3 +33,12 @@ if <bool_exp>:          # if clause; first clause (required); one clause
 - Syntax:
 for <var> in <collection>:
     block
+
+
+### while (conditional) loop
+- Used for infinite looping
+- All GUI applications use while loop
+- Syntax:
+        while <bool_exp>:
+            block
+- As long as the <bool_exp> is True the loop continues to iterate, once the <bool_exp> becomes False the loop ends.
