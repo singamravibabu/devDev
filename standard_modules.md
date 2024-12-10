@@ -1,0 +1,13 @@
+# Standard modules
+- math
+    - Functions for mathematical operations
+- random
+    - Functions for generating random numbers
+- decimal
+    - Functions for working with decimal numbers
+- csv
+    - Functions for working with csv files
+- pickle
+    - Functions for working with persistent data
+- tkinter
+    - Functions for building GUI applications
